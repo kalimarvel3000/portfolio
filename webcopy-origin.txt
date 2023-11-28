@@ -1,0 +1,156 @@
+Uri: https://amelieelmquist.journoportfolio.com/
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\index.htm
+Content Type: text/html
+
+Uri: https://amelieelmquist.journoportfolio.com/about/
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\about\index.htm
+Content Type: text/html
+
+Uri: https://amelieelmquist.journoportfolio.com/awards/
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\awards\index.htm
+Content Type: text/html
+
+Uri: https://amelieelmquist.journoportfolio.com/contact/
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://amelieelmquist.journoportfolio.com/portfolio/
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\portfolio\index.htm
+Content Type: text/html
+
+Uri: https://amelieelmquist.journoportfolio.com/rss.xml
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\rss.xml
+Content Type: application/xml
+
+Uri: https://amelieelmquist.journoportfolio.com/scripts.js
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\scripts.js
+Content Type: text/javascript
+
+Uri: https://amelieelmquist.journoportfolio.com/styles.css
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\styles.css
+Content Type: text/css
+
+Uri: https://files.journoportfolio.com/users/296661/uploads/ef381810-da29-4f4a-b61a-3e77e995ff63.pdf
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\uploads\ef381810-da29-4f4a-b61a-3e77e995ff63.pdf
+Content Type: application/pdf
+
+Uri: https://files.journoportfolio.com/users/296661/uploads/fbb46166-617f-4510-9887-f87e8223dc31.pdf
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\uploads\fbb46166-617f-4510-9887-f87e8223dc31.pdf
+Content Type: application/pdf
+
+Uri: https://media.journoportfolio.com/system/fonts/08a53245-9fcb-477b-9cc8-ab6af2ae1768.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\08a53245-9fcb-477b-9cc8-ab6af2ae1768.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/1658c511-2ab8-47dc-ad17-6800f898357f.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\1658c511-2ab8-47dc-ad17-6800f898357f.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/21450f98-9ef9-4801-8f25-be1d0e9ef52b.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\21450f98-9ef9-4801-8f25-be1d0e9ef52b.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/5f322c5b-7fc1-478b-ac8f-82529309b487.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\5f322c5b-7fc1-478b-ac8f-82529309b487.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/659e0616-1ce3-4152-99ce-3e9eab30048e.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\659e0616-1ce3-4152-99ce-3e9eab30048e.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/67106e5d-458b-45b5-9ce9-8b9a2360198a.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\67106e5d-458b-45b5-9ce9-8b9a2360198a.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/6802e7f1-2635-4653-9296-531c682800d4.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\6802e7f1-2635-4653-9296-531c682800d4.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/7c89cc16-8b2f-4e75-939b-32f0c486b4d6.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\7c89cc16-8b2f-4e75-939b-32f0c486b4d6.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/85e1980f-f53c-4a71-b5d3-556185b533e9.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\85e1980f-f53c-4a71-b5d3-556185b533e9.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/97073707-45fc-4200-8b14-5a9f033bbc56.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\97073707-45fc-4200-8b14-5a9f033bbc56.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/a61cadf2-0868-4525-baf8-57a008ca60d0.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\a61cadf2-0868-4525-baf8-57a008ca60d0.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/b23334a6-565e-4fc2-b4bf-c5d8c25acbc5.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\b23334a6-565e-4fc2-b4bf-c5d8c25acbc5.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/b8863b19-7c89-477a-b3e8-333b737c3205.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\b8863b19-7c89-477a-b3e8-333b737c3205.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/b9df023b-9c2c-42bb-adc9-6b410d77d945.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\b9df023b-9c2c-42bb-adc9-6b410d77d945.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/bfab4096-dd45-48dd-a04f-156c07c2f64e.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\bfab4096-dd45-48dd-a04f-156c07c2f64e.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/c9f4aa8a-2b8d-4eed-8884-dbf43c5aeb73.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\c9f4aa8a-2b8d-4eed-8884-dbf43c5aeb73.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/e4db54da-4b8b-4f81-a764-e800942d77b5.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\e4db54da-4b8b-4f81-a764-e800942d77b5.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/system/fonts/f116ff38-2e7b-4aa4-bc77-6491211c8229.woff2
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\system\fonts\f116ff38-2e7b-4aa4-bc77-6491211c8229.woff2
+Content Type: font/woff2
+
+Uri: https://media.journoportfolio.com/users/296661/images/0a73c752-8873-4783-a5f9-50c3d3213b1c.png
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\images\0a73c752-8873-4783-a5f9-50c3d3213b1c.png
+Content Type: image/png
+
+Uri: https://media.journoportfolio.com/users/296661/images/2273651e-78dd-4129-beb9-a600f731aef5.png
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\images\2273651e-78dd-4129-beb9-a600f731aef5.png
+Content Type: image/png
+
+Uri: https://media.journoportfolio.com/users/296661/images/26461210-c7fe-49e3-b65f-dc0d475fe36d.jpg
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\images\26461210-c7fe-49e3-b65f-dc0d475fe36d.jpg
+Content Type: image/jpeg
+
+Uri: https://media.journoportfolio.com/users/296661/images/26666235-bc52-4960-8601-b9fa98a5316b.jpg
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\images\26666235-bc52-4960-8601-b9fa98a5316b.jpg
+Content Type: image/jpeg
+
+Uri: https://media.journoportfolio.com/users/296661/images/4170ce4c-daf3-459f-b76c-0b12c4b44e9a.png
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\images\4170ce4c-daf3-459f-b76c-0b12c4b44e9a.png
+Content Type: image/png
+
+Uri: https://media.journoportfolio.com/users/296661/images/50e57564-4a47-4a8e-b700-ff11566df7e6.png
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\images\50e57564-4a47-4a8e-b700-ff11566df7e6.png
+Content Type: image/png
+
+Uri: https://media.journoportfolio.com/users/296661/images/a7906b46-02cd-4597-8eb3-16b9bbb8ee1e.png
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\images\a7906b46-02cd-4597-8eb3-16b9bbb8ee1e.png
+Content Type: image/png
+
+Uri: https://media.journoportfolio.com/users/296661/images/e8498bd6-7a38-4b4d-afd1-dea65cc05950.jpg
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\images\e8498bd6-7a38-4b4d-afd1-dea65cc05950.jpg
+Content Type: image/jpeg
+
+Uri: https://media.journoportfolio.com/users/296661/images/ff516197-2a6b-4bbd-ac7e-929906b7d71a.jpg
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\users\296661\images\ff516197-2a6b-4bbd-ac7e-929906b7d71a.jpg
+Content Type: image/png
+
+Uri: https://static.journoportfolio.com/public/img/loading.40e3bc4ab652.gif
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\public\img\loading.40e3bc4ab652.gif
+Content Type: image/gif
+
+Uri: https://www.journoportfolio.com/favicon.ico
+File Name: C:\Downloaded Web Sites\amelieelmquist.journoportfolio.com\favicon.ico
+Content Type: image/x-icon
+
